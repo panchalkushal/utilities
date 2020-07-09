@@ -1,2 +1,2 @@
 # utilities
-Executable for routine operation
+Executable for routine operations
