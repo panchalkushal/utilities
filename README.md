@@ -15,13 +15,13 @@ To provide list of files in the proper folder structure to deploy on externally 
 
 ## Functions
 
-- GetFileNames
+- Get file names
 	- This method iterates through all files under a directory path provided (including subdirectories) and lists all file names with complete path in file called "filelist.txt". This file is created one directory level up than the source directory.
 
-- CopyFilesFromFileList
+- Copy files
 	- This method only copies those files which are mentioned in the text file provided by user from source to destination. 
 
-- GetMatchingLines
+- Get line numbers for string match
 	- Search CSV file row wise and return rows where string match was found. The matchines rows are exported to "filelist.txt". This file is created one directory level up than the source directory.
 
 ## License
