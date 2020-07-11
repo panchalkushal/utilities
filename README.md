@@ -22,7 +22,7 @@ To provide list of files in the proper folder structure to deploy on externally 
 	- This method only copies those files which are mentioned in the text file provided by user from source to destination. 
 
 - Get line numbers for string match
-	- Search CSV file row wise and return rows where string match was found. The matchines rows are exported to "filelist.txt". This file is created one directory level up than the source directory.
+	- Search CSV file row wise and return rows where string match was found. The matching rows are exported to "filelist.txt". This file is created one directory level up than the source directory.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
